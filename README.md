@@ -5,7 +5,7 @@
 #### 📚 I have MBA in Project Management and MBA in People Management.
 #### 🧠 I’m currently studying Full Stack Software Development and to take PSM I certificate.
 #### 💬 I speak Portuguese, English and Spanish.
-#### 🔭 I’m interested in software development and Scrum Master positions.
+#### 🔭 I’m interested in software development, QA and Scrum Master positions.
 
 
 
