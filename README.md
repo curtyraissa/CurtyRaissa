@@ -1,7 +1,7 @@
 # Hi 👋, I'm Raissa Curty
 
 
-#### ⚡ Electrical Engineer with 8 years of experience in the area of energy distribution, people management and project implementation, passing through the operation sector, electrical network expansion projects and new customer connections. 
+#### ⚡ Electrical Engineer with 9 years of experience in the area of energy distribution, people management and project implementation, passing through the operation sector, electrical network expansion projects and new customer connections. 
 #### 📚 I have MBA in Project Management and MBA in People Management.
 #### 🧠 I’m currently studying Full Stack Software Development and to take PSM I certificate.
 #### 💬 I speak Portuguese, English and Spanish.
@@ -17,7 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="node logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"   />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo" />
 
   
