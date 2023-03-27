@@ -27,7 +27,7 @@
 
 <div align="start">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DEV+FULLSTACK+EM+FORMAÇÃO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FULLSTACK+DEV+IN+TRAINING)](https://git.io/typing-svg)
 
 </div>
 
