@@ -28,7 +28,6 @@
 
 <div align="start">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FULLSTACK+DEV+IN+TRAINING)](https://git.io/typing-svg)
 
 </div>
 
