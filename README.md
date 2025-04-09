@@ -22,7 +22,7 @@
   <img align="center" alt="Trello" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"/>
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="50" align="center" alt="linux" />
-
+  <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
 </div>
 
