@@ -1,4 +1,4 @@
-# Hi 👋, I'm Raissa Curty
+# Hi 👋, I'm Raissa Guimarães
 
 #### 🧠 I’m Fullstack Software Engineer with expertise in web programming and API integration. Proficient in Node, Express, React, TypeScript, JavaScript, MongoDB, SQL, PostgreSQL, Axios, Styled-Components, HTML, CSS, Git, NPM, API Rest, API RESTful. Experienced in collaborative work with agile methodologies Scrum and Kanbam, having completed over 25 practical projects.
 #### ⚡ Electrical Engineer with 10 years of experience in the area of energy distribution, people management and project implementation, passing through the operation sector, electrical network expansion projects and new customer connections. 
